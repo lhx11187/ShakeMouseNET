@@ -1,0 +1,2 @@
+# ShakeMouseNET
+ShakeMouseNET 是ShakeMouse的DotNET实现
